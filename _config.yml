@@ -83,12 +83,12 @@ author:
   name             : "Minghui Lu"
   avatar           : "protrait_Minghui_Lu.jpg"
   bio              : "Postdoctoral Researcher"
-  location         : "Seattle, WA"
-  employer         : "University of Washington"
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  location         : "University of Washington,Seattle, WA"
+  employer         : 
+  pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=IHk2-sAAAAAJ&hl=en"
-  email            :
-  researchgate     :  "https://www.researchgate.net/profile/Minghui-Lu-3"
+  email            : 
+  researchgate     : "https://www.researchgate.net/profile/Minghui-Lu-3"
   uri              :
   bitbucket        :
   codepen          :
@@ -102,8 +102,8 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "https://www.linkedin.com/in/minghui-lu-1263a4aa/"
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
