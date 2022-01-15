@@ -82,13 +82,13 @@ analytics:
 author:
   name             : "Minghui Lu"
   avatar           : "protrait_Minghui_Lu.jpg"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Postdoctoral Researcher"
   location         : "Seattle, WA"
-  employer         :
+  employer         : "University of Washington"
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?user=IHk2-sAAAAAJ&hl=en"
   email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     :  "https://www.researchgate.net/profile/Minghui-Lu-3"
   uri              :
   bitbucket        :
   codepen          :
