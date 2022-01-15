@@ -1,12 +1,12 @@
 ---
-title: "Paper Title Number 2"
+title: "Self-synchronizing Cascaded Inverters with Virtual Oscillator Control"
 collection: publications
 permalink: /publication/2010-10-01-paper-title-number-2
 excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
+date: 2022-01-01
+venue: 'IEEE Transactions on Power Electronics'
 paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+citation: 'M. Lu, S. Dutta and B. Johnson, "Self-synchronizing Cascaded Inverters with Virtual Oscillator Control," in IEEE Transactions on Power Electronics.'
 ---
 This paper is about the number 2. The number 3 is left for future work.
 
