@@ -1,7 +1,7 @@
 ---
 title: "Self-synchronizing Cascaded Inverters with Virtual Oscillator Control"
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2
+permalink: /publication/Self-synchronizing Cascaded Inverters with Virtual Oscillator Control
 excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
 date: 2022-01-01
 venue: 'IEEE Transactions on Power Electronics'
