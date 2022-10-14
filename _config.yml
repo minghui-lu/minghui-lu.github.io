@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Minghui Lu"
+  name             : "Minghui Lu, Ph.D."
   avatar           : "protrait_Minghui_Lu.jpg"
   bio              : "Postdoc @ Univ. of Wash."
   location         : "Seattle, Washington State"
@@ -88,11 +88,9 @@ author:
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=IHk2-sAAAAAJ&hl=en"
   email            : "minghui.u@austin.utexas.edu"
-  researchgate     : "https://www.researchgate.net/profile/Minghui-Lu-3"
   github           :
   linkedin         : "minghui-lu-1263a4aa"
   orcid            : 
-  wikipedia        :
 
 
 # Reading Files
