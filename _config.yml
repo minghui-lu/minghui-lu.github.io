@@ -91,7 +91,7 @@ author:
   researchgate     : "https://www.researchgate.net/profile/Minghui-Lu-3"
   github           :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
-  linkedin         : "https://www.linkedin.com/in/minghui-lu-1263a4aa/"
+  linkedin         : "minghui-lu-1263a4aa"
   orcid            : 
   wikipedia        :
 
@@ -163,9 +163,9 @@ collections:
   portfolio:
     output: true
     permalink: /:collection/:path/
-  talks:
-    output: true
-    permalink: /:collection/:path/
+#  talks:
+#    output: true
+#    permalink: /:collection/:path/
 
 
 # Defaults
