@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Minghui Lu"
+title                    : "Minghui Lu, Ph.D."
 title_separator          : "-"
-name                     : &name "Minghui Lu"
+name                     : &name "Minghui Lu, Ph.D."
 description              : &description "personal description"
 url                      : https://minghui-lu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -83,37 +83,16 @@ author:
   name             : "Minghui Lu"
   avatar           : "protrait_Minghui_Lu.jpg"
   bio              : "Postdoctoral Researcher"
-  location         : "University of Washington,Seattle, WA"
-  employer         : 
+  location         : "Seattle, Washington State"
+  employer         : "University of Washington"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=IHk2-sAAAAAJ&hl=en"
-  email            : 
+  email            : "minghui.u@austin.utexas.edu"
   researchgate     : "https://www.researchgate.net/profile/Minghui-Lu-3"
-  uri              :
-  bitbucket        :
-  codepen          :
-  dribbble         :
-  flickr           :
-  facebook         :
-  foursquare       :
   github           :
-  google_plus      :
-  keybase          :
-  instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
-  lastfm           :
   linkedin         : "https://www.linkedin.com/in/minghui-lu-1263a4aa/"
   orcid            : 
-  pinterest        :
-  soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
-  steam            :
-  tumblr           :
-  twitter          :
-  vine             :
-  weibo            :
-  xing             :
-  youtube          :
   wikipedia        :
 
 
