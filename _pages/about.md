@@ -15,3 +15,7 @@ Minghui Lu received the B.S. degree from the Harbin Institute of Technology, Har
 <p align="justify">
 His research interests include modeling, analysis, and control of power electronics and power systems with a focus on renewable integration. He serves as session chairs in several conferences, IEEE PVSC 2019, IEEE KPEC 2020 and reviewer for top journals and conferences. He received the Outstanding reviewer Award from IEEE Transactions on Energy Conversion.
 <p>
+
+A data-driven personal website
+======
+Like many other Jekyll-
