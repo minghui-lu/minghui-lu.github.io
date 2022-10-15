@@ -16,5 +16,4 @@ Minghui Lu received the B.S. degree from the Harbin Institute of Technology, Har
 His research interests include modeling, analysis, and control of power electronics and power systems. He serves as session chairs in several conferences and reviewers for top journals and conferences.
 <p>
 
----
-![](/images/site-logo.png)
+[](/images/site-logo.png)
