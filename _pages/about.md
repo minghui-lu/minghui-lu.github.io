@@ -10,6 +10,7 @@ redirect_from:
 
 <p align="justify">
 Minghui Lu received the B.S. degree from the Harbin Institute of Technology, Harbin, China, in 2011, and M.S. degree from the Huazhong University of Science and Technology, Wuhan, China, in 2014, both in electrical engineering. He received the Ph.D. degree in power electronics system from Aalborg University, Denmark, in 2017. He is a postdoctoral researcher at ECE at University of Washington.
+<i>University of Texas at Austin</i>
 <p>
 
 <p align="justify">
