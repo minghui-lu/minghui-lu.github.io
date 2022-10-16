@@ -10,4 +10,4 @@ redirect_from:
 {% include base_path %}
 
 Updated CV
-[Download:](http://minghui-lu.github.io/files/Minghui_s_CV.pdf)
+[Download](http://minghui-lu.github.io/files/Minghui_s_CV.pdf)
