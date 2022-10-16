@@ -18,3 +18,6 @@ His research interests include modeling, analysis, and control of power electron
 <p>
 
 (/images/site-logo.png)
+
+Example: editing a markdown file for a talk
+![Editing a markdown file for a talk](/images/site-logo.png)
