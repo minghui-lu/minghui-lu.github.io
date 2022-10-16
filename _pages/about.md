@@ -23,20 +23,16 @@ Example: editing a markdown file for a talk
 
 
 .container {
-    display: flex;
-}
-
-.container>* {
-    margin: 0 10px;
-    flex: 1;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-gap: 20px;
 }
 
 <div class="container">
-  <p>Veggies es bonus vobis, proinde vos postulo essum magis kohlrabi welsh onion daikon amaranth tatsoi tomatillo
-        melon azuki bean garlic.</p>
-  <p>Gumbo beet greens corn soko endive gumbo gourd. Parsley shallot courgette tatsoi pea sprouts fava bean collard
-        greens dandelion okra wakame tomato. Dandelion cucumber earthnut pea peanut soko zucchini.</p>
-  <p>Turnip greens yarrow ricebean rutabaga endive cauliflower sea lettuce kohlrabi amaranth water spinach avocado
-        daikon napa cabbage asparagus winter purslane kale. Celery potato scallion desert raisin horseradish spinach
-        carrot soko. Lotus root water spinach.</p>
+    <p>Veggies es bonus vobis, proinde vos postulo essum magis kohlrabi welsh onion daikon amaranth tatsoi.</p>
+
+    <p>Gumbo beet greens corn soko endive gumbo gourd. Parsley shallot courgette tatsoi pea sprouts fava bean collard greens.</p>
+
+    <p>Nori grape silver beet broccoli kombu beet greens fava bean potato quandong celery. Bunya nuts
+    black-eyed pea prairie turnip leek lentil turnip greens parsnip. .</p>
 </div>
