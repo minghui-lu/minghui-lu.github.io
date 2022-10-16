@@ -59,3 +59,5 @@ Example: editing a markdown file for a talk
 
 
 ![Editing a markdown file for a talk](/images/site-logo.png)
+
+<img src="minghui-lu.github.io/images/site-logo.png" class="centerImage" alt="CH Logo" height="120" width="350">
