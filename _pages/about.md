@@ -9,11 +9,7 @@ redirect_from:
 ---
 
 <p align="justify">
-I am a postdoctoral research associate in </p> 
-
-[University of Texas at Austin](https://cockrell.utexas.edu/research)
-<p>
-My research interests include modeling, analysis, and control of power electronics and power systems. He serves as session chairs in several conferences and reviewers for top journals and conferences.
+I am a postdoctoral research associate in <a href="https://cockrell.utexas.edu/research" rel="nofollow">University of Texas at Austin</a>. My research interests include modeling, analysis, and control of power electronics and power systems. He serves as session chairs in several conferences and reviewers for top journals and conferences.
 </p>
 
 ![E](/images/site-logo.png)
