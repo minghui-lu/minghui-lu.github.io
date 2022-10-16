@@ -41,8 +41,22 @@ How to edit your site's GitHub repository
 ------
 Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
 
+
+<p align="justify">
+Minghui Lu received the B.S. degree from the Harbin Institute of Technology, Harbin, China, in 2011, and M.S. degree from the Huazhong University of Science and Technology, Wuhan, China, in 2014, both in electrical engineering. He received the Ph.D. degree in power electronics system from Aalborg University, Denmark, in 2017. He is a postdoctoral researcher at ECE at University of Washington.
+<i>University of Texas at Austin</i>
+</p>
+
+
 Example: editing a markdown file for a talk
 ![Editing a markdown file for a talk](/images/site-logo.png)
+
+
+<p align="justify">
+Minghui Lu received the B.S. degree from the Harbin Institute of Technology, Harbin, China, in 2011, and M.S. degree from the Huazhong University of Science and Technology, Wuhan, China, in 2014, both in electrical engineering. He received the Ph.D. degree in power electronics system from Aalborg University, Denmark, in 2017. He is a postdoctoral researcher at ECE at University of Washington.
+<i>University of Texas at Austin</i>
+</p>
+
 
 For more info
 ------
@@ -51,12 +65,13 @@ More info about configuring academicpages can be found in [the guide](https://ac
 <p align="justify">
 Minghui Lu received the B.S. degree from the Harbin Institute of Technology, Harbin, China, in 2011, and M.S. degree from the Huazhong University of Science and Technology, Wuhan, China, in 2014, both in electrical engineering. He received the Ph.D. degree in power electronics system from Aalborg University, Denmark, in 2017. He is a postdoctoral researcher at ECE at University of Washington.
 <i>University of Texas at Austin</i>
-<p>
+</p>
 
 <p align="justify">
 His research interests include modeling, analysis, and control of power electronics and power systems. He serves as session chairs in several conferences and reviewers for top journals and conferences.
 Example: editing a markdown file for a talk
-<p>
+</p>
+
 
 ![Editing a markdown file for a talk](/images/site-logo.png)
 
