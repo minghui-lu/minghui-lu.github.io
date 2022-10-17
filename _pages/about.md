@@ -22,4 +22,4 @@ My research is mainly funded by Department of Energy
 I serves as session chairs in several conferences and reviewers for top journals and conferences.
 </p>
 
-![E](/images/pnnl.png)
+![E](/images/PNNL.png)
