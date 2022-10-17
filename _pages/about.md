@@ -28,26 +28,24 @@ I serves as session chairs in several conferences and reviewers for top journals
 Publication
 ---
 
-<table border="1">
+<table border="0">
   <tr>
-    <th>
-      <center><img src="/images/PNNL.png" width="50%" height="50%"/></center>
-    </th>
-    <th>
-      <center><img src="/images/PNNL.png" width="50%" height="50%"/></center>
-    </th>
-    <th>
-      <center><img src="/images/PNNL.png" width="50%" height="50%"/></center>
-    </th>
+    <th><center><img src="/images/PNNL.png" width="50%" height="50%"/></center></th>
+    <th><center><img src="/images/PNNL.png" width="50%" height="50%"/></center></th>
+    <th><center><img src="/images/PNNL.png" width="50%" height="50%"/></center></th>
   </tr>
   <tr>
-    <td>Jack Anderson</td>
-    <td>28</td>
-    <td>Russia</td>
+    <td>
+      <center><img src="/images/PNNL.png" width="50%" height="50%"/></center>
+    </td>
+    <td><center><img src="/images/PNNL.png" width="50%" height="50%"/></center>
+    </td>
+    <td><center><img src="/images/PNNL.png" width="50%" height="50%"/></center>
+    </td>
   </tr>
   <tr>
-    <td>Jhonny Ray</td>
-    <td>33</td>
-    <td>Australia</td>
+    <td><center><img src="/images/PNNL.png" width="50%" height="50%"/></center></td>
+    <td><center><img src="/images/PNNL.png" width="50%" height="50%"/></center></td>
+    <td><center><img src="/images/PNNL.png" width="50%" height="50%"/></center></td>
   </tr>
 </table>
