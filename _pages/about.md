@@ -24,4 +24,4 @@ I serves as session chairs in several conferences and reviewers for top journals
 
 <img src="/images/PNNL.png" 
      width="50%" 
-     height="50%" />
+     height="50%" class="center"/>
