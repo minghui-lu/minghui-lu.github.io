@@ -25,7 +25,7 @@ My research is mainly funded by Department of Energy
 I serves as session chairs in several conferences and reviewers for top journals and conferences.
 </p>
 
-<center><img src="/images/Hardware.png" width="50%" height="50%"/></center>
+<center><img src="/images/Hardware.png" width="100%" height="100%"/></center>
 
 
 Publications
@@ -35,6 +35,8 @@ Publications
   <tr>
     <th><center><img src="/images/Trans1.png" width="80%" height="80%"/></center>
     <a href="https://ieeexplore.ieee.org/abstract/document/7501530" rel="nofollow">Resonance interaction of multiparallel grid-connected inverters with LCL filter</a>
+    M. Lu, 
+    IEEE Transactions on Power Electronics
     </th>
     <th><center><img src="/images/PNNL.png" width="50%" height="50%"/></center></th>
     <th><center><img src="/images/PNNL.png" width="50%" height="50%"/></center></th>
