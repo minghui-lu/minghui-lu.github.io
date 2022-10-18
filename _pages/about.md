@@ -13,6 +13,9 @@ I am a postdoctoral researcher in <a href="https://cockrell.utexas.edu/research"
 My research covers the areas of power electronics, electric power systems, and renewable energy systems.
 Advanced Power Conversion and Control Research
 
+<center><img src="/images/Research.png" width="100%" height="100%"/></center>
+
+
 We aim at developing innovative technologies to make electrical energy conversion more efficient, reliable and cost-effective. These technologies are used in a variety of applications, such as transforming raw and fluctuating energy from solar, wind and fuel cells into high-quality power required by end-users. Working with local and international organizations and industry partners, we focus on applying these technologies in hybrid and electric vehicles, industrial motor drives, renewable and distributed power generation, high-efficiency power supplies, and next generation smart grid systems.
 </p>
 
