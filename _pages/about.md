@@ -46,8 +46,18 @@ Publications
     M. Lu, 
     IEEE Transactions on Power Electronics
     </th>
-    <th><center><img src="/images/PNNL.png" width="50%" height="50%"/></center></th>
-    <th><center><img src="/images/PNNL.png" width="50%" height="50%"/></center></th>
+    <th><center><img src="/images/Trans1.png" width="80%" height="80%"/></center>
+    <a href="https://ieeexplore.ieee.org/abstract/document/7501530" rel="nofollow">Resonance interaction of multiparallel grid-connected inverters with LCL filter</a>
+    M. Lu, 
+    IEEE Transactions on Power Electronics</th>
+    <th><center><img src="/images/Trans1.png" width="80%" height="80%"/></center>
+    <a href="https://ieeexplore.ieee.org/abstract/document/7501530" rel="nofollow">Resonance interaction of multiparallel grid-connected inverters with LCL filter</a>
+    M. Lu, 
+    IEEE Transactions on Power Electronics</th>
+    <th><center><img src="/images/Trans1.png" width="80%" height="80%"/></center>
+    <a href="https://ieeexplore.ieee.org/abstract/document/7501530" rel="nofollow">Resonance interaction of multiparallel grid-connected inverters with LCL filter</a>
+    M. Lu, 
+    IEEE Transactions on Power Electronics</th>
   </tr>
   <tr>
     <td>
@@ -57,8 +67,11 @@ Publications
     </td>
     <td><center><img src="/images/PNNL.png" width="50%" height="50%"/></center>
     </td>
+    <td><center><img src="/images/PNNL.png" width="50%" height="50%"/></center>
+    </td>
   </tr>
   <tr>
+    <td><center><img src="/images/PNNL.png" width="50%" height="50%"/></center></td>
     <td><center><img src="/images/PNNL.png" width="50%" height="50%"/></center></td>
     <td><center><img src="/images/PNNL.png" width="50%" height="50%"/></center></td>
     <td><center><img src="/images/PNNL.png" width="50%" height="50%"/></center></td>
