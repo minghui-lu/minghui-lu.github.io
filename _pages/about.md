@@ -31,7 +31,7 @@ Publications
 <table border="0">
   <tr>
     <th><center><img src="/images/PNNL.png" width="50%" height="50%"/></center>
-    <a href="https://ieeexplore.ieee.org/abstract/document/7501530" rel="nofollow">Resonance interaction of multiparallel grid-connected inverters with LCL filter 
+    <a href="https://ieeexplore.ieee.org/abstract/document/7501530" rel="nofollow">Resonance interaction of multiparallel grid-connected inverters with LCL filter</a>
     </th>
     <th><center><img src="/images/PNNL.png" width="50%" height="50%"/></center></th>
     <th><center><img src="/images/PNNL.png" width="50%" height="50%"/></center></th>
